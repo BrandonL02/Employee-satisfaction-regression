@@ -2,6 +2,10 @@
 
 This project uses a **Decision Tree Regressor** to predict employee satisfaction levels from employee workplace data. The project includes data preprocessing, baseline model evaluation, cross-validation, and hyperparameter tuning using Grid Search.
 
+## Dataset
+
+Dataset source: [Employees Satisfaction Analysis - Kaggle](https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis)
+
 ## Project Overview
 
 The application:
