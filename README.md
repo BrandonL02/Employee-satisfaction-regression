@@ -72,3 +72,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/BrandonL02/Employee-satisfaction-regression.git
+
+## Author
+
+**Brandon Latimer**
+
+B.S. Computer Science
