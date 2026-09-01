@@ -67,4 +67,4 @@ Before model training, the application:
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/BrandonL02/Employee-satisfaction-regression.git
